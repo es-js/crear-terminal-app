@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "@es-js/terminal": "^1.1.9",
-    "@es-js/vite-plugin-esjs": "^0.1.0-beta.0",
+    "@es-js/vite-plugin-esjs": "^0.1.0-beta.1",
     "vite": "^5.2.11"
   }
 }
