@@ -14,7 +14,5 @@ Utilizando este proyecto como *template*.
 Ejecutando:
 
 ```
-npx degit https://github.com/es-js/crear-terminal-app mi-esjs-terminal-app
-cd mi-esjs-terminal-app
-pnpm i
+npm create esjs terminal
 ```
