@@ -11,6 +11,9 @@ importers:
       '@es-js/terminal':
         specifier: ^1.1.9
         version: 1.1.9
+      '@es-js/tiza':
+        specifier: ^1.0.2
+        version: 1.0.2
       '@es-js/vite-plugin-esjs':
         specifier: ^0.1.0-beta.2
         version: 0.1.0-beta.2
@@ -22,6 +25,9 @@ packages:
 
   '@es-js/terminal@1.1.9':
     resolution: {integrity: sha512-jNLImOFQLJWmmKiOO7ib34MfcqaxMQXtL6UsGkqaQx5YthqDTdu2uwMBWm5Kl3jqzp1cMH5ZEAz+X6CdNyO/1g==}
+
+  '@es-js/tiza@1.0.2':
+    resolution: {integrity: sha512-/eXzuqaNvNoGPTdjymCpr/1+EXXyXDNjt8mSVK1xhrbW/a+4ax57+6VvveRrVNvGtgQDvksl/koAILqFB8IMcg==}
 
   '@es-js/vite-plugin-esjs@0.1.0-beta.2':
     resolution: {integrity: sha512-MMKQi34Y2uumj1upR+ceryro/mIsZdY0nFxxKp6xkgivrPinFo7ze1IEt99/Wcd3jwsA+UJTlP6Ks0IQRvQECg==}
@@ -479,6 +485,8 @@ packages:
 snapshots:
 
   '@es-js/terminal@1.1.9': {}
+
+  '@es-js/tiza@1.0.2': {}
 
   '@es-js/vite-plugin-esjs@0.1.0-beta.2':
     dependencies:
